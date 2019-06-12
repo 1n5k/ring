@@ -3,10 +3,10 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        ring
+        コンニチハ
       </h1>
       <h2 class="subtitle">
-        Study for nuxt.js + firebase + auth0
+        {{ description }}
       </h2>
       <div class="links">
         <a
